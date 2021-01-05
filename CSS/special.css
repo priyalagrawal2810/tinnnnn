@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  color: red;
+}
+body{
+  background-color: #ffe4e1;
+  font-family: 'Sacramento',cursive;
+}
+
+.x{
+  font-size: 27px;
+}
+img{
+  height:300px;
+  width:300px;
+  border-radius: 10%
+}
+.pro{
+  font-style: italic;
+  font-size: 35px;
+  color: red;
+}

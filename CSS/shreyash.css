@@ -1,0 +1,22 @@
+body{
+  background-color: #dcdcdc;
+  font-family: cursive;  
+}
+
+img{
+  height: 250px;
+  width: 250px;
+}
+.first
+{
+  font-size: 30px;
+  color:navy;
+  font-style: italic;
+}
+.second{
+  font-size: 25px;
+}
+
+h1{
+  text-align: center;
+}

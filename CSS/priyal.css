@@ -1,0 +1,129 @@
+
+.x{
+  background-color:#ffe4e1;
+  height: 720px;
+  width: 1500px;
+}
+.xx{
+  background-color:  #dcdcdc;
+  height: 1200px;
+  width: 1494px;
+}
+.A{
+  position: absolute;
+  right:0;
+  top:10;
+  height: 100px;
+  width: 100px;
+}
+.B{
+  position:absolute;
+  left:0;
+  bottom: 0;
+  height: 100px;
+  width: 100px;
+}
+.C{
+  position:absolute;
+  right: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100px;
+}
+.D{
+  position: absolute;
+  top:10;
+  left: 0;
+  height: 100px;
+  width: 100px;
+}
+.love{
+display: inline-block;
+position: relative;
+top:200px;
+left:430px;
+font-size: 100px;
+color: darkred;
+}
+.h{
+  position: relative;
+  bottom: 260px;
+  left: 100px;
+font-size: 26px;
+}
+.f{
+  position: relative;
+  bottom:180px;
+  left:100px;
+  font-size: 26px;
+}
+.p
+{
+  height: 400px;
+  width:495px;
+  background-color:#adff2f;
+}
+.pp{
+  height: 400px;
+  width:495px;
+  background-color:#ffa07a;
+  position: relative;
+  left: 495px;
+  bottom: 830px;
+}
+.ppp{
+  height: 400px;
+  width:495px;
+  background-color:#adff2f;
+  position: relative;
+  left:990px;
+  bottom: 865px;
+}
+.pppp{
+  height: 400px;
+  width:495px;
+  background-color:gold;
+  position: relative;
+  bottom: 1287px;
+}
+.ppppp{
+  height: 400px;
+  width:495px;
+  background-color: gold;
+  position: relative;
+  bottom:2515px;
+  left: 994px;
+}
+.r{
+height:400px;
+width: 495px;
+position: relative;
+bottom: 400px;
+left: 495px;
+}
+.rr{
+  height: 400px;
+  width: 495px;
+  position: relative;
+  right: 495px;
+}
+.rrr{
+  height: 400px;
+  width: 495px;
+  position: relative;
+  right: 5px;
+}
+.rrrr{
+  height: 400px;
+  width: 495px;
+  position: relative;
+  left: 495px;
+}
+.a{
+  text-align: center;
+  font-size: 40px;
+}
+.b{
+  font-size: 30px;
+  font-style: oblique;
+}
